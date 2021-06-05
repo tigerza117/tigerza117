@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![](https://media.giphy.com/media/jp7jSyjNNz2ansuOS8/giphy.gif)
+
 [Gitlab](https://gitlab.com/tigerza117)
+
+[![tigerza117's GitHub stats](https://github-readme-stats.vercel.app/api?username=tigerza117)](https://github.com/tigerza117)
