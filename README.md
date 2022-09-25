@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://media.giphy.com/media/jp7jSyjNNz2ansuOS8/giphy.gif)
+![](https://media.giphy.com/media/RMwgs5kZqkRyhF24KK/giphy.gif)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tigerza117&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+
+![TigerZa117's GitHub stats](https://github-readme-stats.vercel.app/api?username=tigerza117&show_icons=true&theme=gradient)
 
 [Gitlab](https://gitlab.com/tigerza117)
-
-[![tigerza117's GitHub stats](https://github-readme-stats.vercel.app/api?username=tigerza117)](https://github.com/tigerza117)
